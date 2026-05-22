@@ -102,9 +102,11 @@ Type help for the list of commands.
 
 ## 7. Interface Screenshots
 
-![Main page](static/screen1.png)
-![Report](static/screen2.png)
-![Low stock](static/screen3.png)
+![Main page](https://raw.githubusercontent.com/aishazhumskhan2023-blip/warehouse-chatbot/main/screen1.png)
+
+![Report](https://raw.githubusercontent.com/aishazhumskhan2023-blip/warehouse-chatbot/main/screen2.png)
+
+![Low stock](https://raw.githubusercontent.com/aishazhumskhan2023-blip/warehouse-chatbot/main/screen3.png)
 ---
 
 ## Project Structure
